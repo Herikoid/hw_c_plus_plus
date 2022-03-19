@@ -1,7 +1,0 @@
-﻿  dictionary.cpp
-C:\Users\mrpsi\source\repos\dictionary\dictionary.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\mrpsi\source\repos\dictionary\dictionary.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\mrpsi\source\repos\dictionary\dictionary.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\mrpsi\source\repos\dictionary\dictionary.cpp(97,43): warning C4018: '<': signed/unsigned mismatch
-C:\Users\mrpsi\source\repos\dictionary\dictionary.cpp(109,48): warning C4018: '<': signed/unsigned mismatch
-  dictionary.vcxproj -> C:\Users\mrpsi\source\repos\dictionary\Debug\dictionary.exe

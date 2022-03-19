@@ -1,5 +1,0 @@
-﻿  io.cpp
-C:\Users\mrpsi\source\repos\io\io.cpp(86,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\mrpsi\source\repos\io\io.cpp(87,39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\mrpsi\source\repos\io\io.cpp(73,49): warning C4101: 'ia': unreferenced local variable
-  io.vcxproj -> C:\Users\mrpsi\source\repos\io\Debug\io.exe
